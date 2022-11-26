@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[st4lk.github.io](https://st4lk.github.io/)
+[st4lk.github.io](https://st4lk.github.io/en/)
 
 <!--
 **st4lk/st4lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
